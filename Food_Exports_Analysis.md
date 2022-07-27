@@ -28,7 +28,7 @@ Greece reported the highest number of food rejections.
     b. The most rejected food
 The most rejected food is nuts,nuts products and seeds.
     
-![Screenshot (39)](https://user-images.githubusercontent.com/81259955/180776235-0ecdeaa1-7b41-4f95-8e1f-6796db647109.png)
+![Screenshot (50)](https://user-images.githubusercontent.com/81259955/181004845-e21a480e-71a2-45c6-a52a-39113cf56278.png)
     
     c. The country of origin of the most rejected food?
  The country of origing of the most rejected food is Sudan with Nigeria following closely.
