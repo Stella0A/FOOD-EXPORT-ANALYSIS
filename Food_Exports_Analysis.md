@@ -32,13 +32,13 @@ The most rejected food is nuts,nuts products and seeds.
     
     c. The country of origin of the most rejected food?
  The country of origing of the most rejected food is Sudan with Nigeria following closely.
-    
-![Screenshot (42)](https://user-images.githubusercontent.com/81259955/180777255-9e8ef451-6f5d-4a91-83ed-1db74ae0ce10.png)
+ 
+ ![Screenshot (54)](https://user-images.githubusercontent.com/81259955/181135060-8e63dba3-84b9-48e7-ba82-d423a15d5e41.png)
 
     d. The most action taken against food exported to the EU?
 The most action taken againsts the food products exported to Eu is redispatch of products.
     
-![Screenshot (46)](https://user-images.githubusercontent.com/81259955/180777749-182d2ec9-db8b-4868-aaed-b41861b94713.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/81259955/181136256-99eb48d0-29b7-4508-9ad2-e053263497db.png)
 
     e. Which of the food products are at the highest risk? 
 The food products with the highest risks is nuts,nuts products and seeds with the risks of border control-consigments detained, border control-consigments under customs, food poisoning, company's check, and offical control on the market.
